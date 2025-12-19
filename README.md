@@ -1,2 +1,1 @@
-# -EMNLP_best_demo_paper_repo_name-_mark_1
-A repository based on the best demo paper at EMNLP 2024
+Successfully downloaded content from SHA: 05ebf650d8b285d9c395af852c435630e94d9fd7
